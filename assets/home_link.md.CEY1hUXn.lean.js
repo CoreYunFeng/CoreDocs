@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,a2 as a}from"./chunks/framework.DpbVmF_m.js";const p=JSON.parse('{"title":"Friend Links","description":"","frontmatter":{},"headers":[],"relativePath":"home/link.md","filePath":"home/link.md"}'),n={name:"home/link.md"},i=a("",2),l=[i];function o(s,_,c,h,d,f){return t(),r("div",null,l)}const u=e(n,[["render",o]]);export{p as __pageData,u as default};
